@@ -1,0 +1,1251 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"toBe",
+				"toBeFalsy"
+			],
+			[
+				"brij",
+				"brijHasClass"
+			],
+			[
+				"toB",
+				"toBeTruthy"
+			],
+			[
+				"sec",
+				"secondSummary"
+			],
+			[
+				"re",
+				"recalcHeight"
+			],
+			[
+				"sc",
+				"scrollHeight"
+			],
+			[
+				"conte",
+				"contentWindow"
+			],
+			[
+				"dire",
+				"directive"
+			],
+			[
+				"starred",
+				"starredCount"
+			],
+			[
+				"link",
+				"linkElem"
+			],
+			[
+				"ifra",
+				"iframeWindow"
+			],
+			[
+				"fo",
+				"formattedDateFilter"
+			],
+			[
+				"fi",
+				"firstFeedEntry"
+			],
+			[
+				"w",
+				"wReader"
+			],
+			[
+				"form",
+				"formattedDate"
+			],
+			[
+				"filter",
+				"filterBy"
+			],
+			[
+				"selec",
+				"selectItem"
+			],
+			[
+				"togg",
+				"toggleStarred"
+			],
+			[
+				"select",
+				"selectedIdx"
+			],
+			[
+				"sele",
+				"selectItem"
+			],
+			[
+				"clear",
+				"clearItems"
+			],
+			[
+				"HTTP",
+				"httpBackend"
+			],
+			[
+				"Items",
+				"ItemsInj"
+			],
+			[
+				"http",
+				"httpBackend"
+			],
+			[
+				"Feed",
+				"FeedStoreSvcInj"
+			],
+			[
+				"get",
+				"getAll"
+			],
+			[
+				"selected",
+				"selected"
+			],
+			[
+				"feedStore",
+				"feedStoreSvc"
+			],
+			[
+				"fee",
+				"feedUrl"
+			],
+			[
+				"sto",
+				"storeSvc1"
+			],
+			[
+				"Fee",
+				"FeedStoreSvcInj"
+			],
+			[
+				"feed",
+				"feedSvc"
+			],
+			[
+				"fe",
+				"feedSvc2"
+			],
+			[
+				"pr",
+				"privateVal"
+			],
+			[
+				"st",
+				"storeSvc2"
+			],
+			[
+				"fet",
+				"fetchFeed"
+			],
+			[
+				"htt",
+				"httpBackend"
+			],
+			[
+				"toBE",
+				"toBeDefined"
+			],
+			[
+				"ex",
+				"expectedEntry"
+			],
+			[
+				"passwo",
+				"password_confirmation"
+			],
+			[
+				"coo",
+				"cookies"
+			],
+			[
+				"G",
+				"GetAllPatients"
+			],
+			[
+				"asset",
+				"asset_path"
+			],
+			[
+				"redi",
+				"redirect_to"
+			],
+			[
+				"password",
+				"password_field"
+			],
+			[
+				"pass",
+				"password_confirmation"
+			],
+			[
+				"do",
+				"do"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/JSLint/JSLint.sublime-build",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git merg",
+				"Git: Merge Branch"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"package di",
+				"Package Control: Disable Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git ",
+				"Git: Graph Current File"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git di",
+				"Git: Diff Tool All"
+			],
+			[
+				"git bran",
+				"Git: New Branch"
+			],
+			[
+				"git",
+				"Git: Change Branch"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: for (…) {…}"
+			],
+			[
+				"snipp",
+				"Snippet: if"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"discov",
+				"Package Control: Discover Packages"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 115.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/brijeshshetty/.profile",
+		"/Users/brijeshshetty/.bash_profile",
+		"/Users/brijeshshetty/Projects/angular/src/angular.js/src/ng/compile.js",
+		"/Users/brijeshshetty/Projects/angular/src/angular.js/src/auto/injector.js",
+		"/Users/brijeshshetty/.bashrc",
+		"/Users/brijeshshetty/.bash_login",
+		"/Users/brijeshshetty/Projects/angular/webreader/test/lib/angular/angular-scenario.js",
+		"/Users/brijeshshetty/Projects/angular/AngularJS-Testing-Article/scripts/test.sh",
+		"/Users/brijeshshetty/Projects/angular/webreader/config/testacular-e2e.conf.js",
+		"/Users/brijeshshetty/Projects/angular/webreader/test/e2e/runner.html",
+		"/Users/brijeshshetty/Projects/angular/webreader/app/lib/angular/angular.js",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/brij_notes.txt",
+		"/Users/brijeshshetty/Projects/angular/webreader/config/testacular.conf.js",
+		"/Users/brijeshshetty/Projects/angular/webreader/scripts/e2e-test.sh",
+		"/Users/brijeshshetty/Projects/angular/webreader/app/css/style.css",
+		"/Users/brijeshshetty/Projects/angular/webreader/scripts/web-server.js",
+		"/Users/brijeshshetty/Projects/angular/webreader/package.json",
+		"/Users/brijeshshetty/Projects/angular/webreader/scripts/web.js",
+		"/Users/brijeshshetty/Projects/angular/webreader/app/index.html",
+		"/Users/brijeshshetty/Projects/angular/webreader/Procfile",
+		"/Users/brijeshshetty/Projects/rails/brij_rails_notes.txt",
+		"/Users/brijeshshetty/Projects/angular/webreader/app/post-content.html",
+		"/Users/brijeshshetty/Projects/angular/webreader/test/unit/servicesSpec.js",
+		"/Users/brijeshshetty/Projects/angular/webreader/app/js/directives.js",
+		"/Users/brijeshshetty/Projects/angular/webreader/test/unit/data.js",
+		"/Users/brijeshshetty/Projects/angular/webreader/app/js/services.js",
+		"/Users/brijeshshetty/Projects/angular/webreader/app/js/app.js",
+		"/Users/brijeshshetty/Projects/angular/webreader/app/js/controllers.js",
+		"/Users/brijeshshetty/Projects/angular/webreader/app/js/post-content.js",
+		"/Users/brijeshshetty/Projects/angular/webreader/app/partials/index.html",
+		"/Users/brijeshshetty/Projects/angular/webreader/test/unit/directivesSpec.js",
+		"/Users/brijeshshetty/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/brijeshshetty/Projects/angular/webreader/app/lib/jquery/jquery-1.9.1.min.js",
+		"/Users/brijeshshetty/Projects/angular/webreader/app/lib/jquery",
+		"/Users/brijeshshetty/Projects/angular/webreader/app/js/filters.js",
+		"/Users/brijeshshetty/Projects/angular/webreader/test/unit/filtersSpec.js",
+		"/Users/brijeshshetty/Projects/angular/webreader/app/lib/moment/moment-2.0.0.js",
+		"/Users/brijeshshetty/Projects/angular/webreader/app/lib/moment/moment-2.0.0.min.js",
+		"/Users/brijeshshetty/Projects/angular/webreader/app/css/bootstrap.min.css",
+		"/Users/brijeshshetty/Projects/angular/webreader/app/css/bootstrap_orig.min.css",
+		"/Users/brijeshshetty/Projects/angular/webreader/test/unit/controllersSpec.js",
+		"/Users/brijeshshetty/Projects/angular/webreader/brij_notes.txt",
+		"/Users/brijeshshetty/Projects/angular/webreader/test/lib/angular/angular-mocks.js",
+		"/Users/brijeshshetty/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/Users/brijeshshetty/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Default (OSX).sublime-keymap",
+		"/Users/brijeshshetty/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/brijeshshetty/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/brijeshshetty/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Default (OSX).sublime-mousemap",
+		"/Users/brijeshshetty/Projects/angular/webreader/app/lib/angular/angular-resource.js",
+		"/Users/brijeshshetty/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/sublimelinter/modules/libs/jslint/jslint.js",
+		"/Users/brijeshshetty/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/Users/brijeshshetty/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/Default (OSX).sublime-keymap",
+		"/Users/brijeshshetty/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/brijeshshetty/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/brijeshshetty/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/brijeshshetty/Library/Application Support/Sublime Text 2/Packages/JSLint/JSLint.sublime-build",
+		"/Users/brijeshshetty/Library/Application Support/Sublime Text 2/Packages/JSLint/JSLint.sublime-settings",
+		"/Users/brijeshshetty/Library/Application Support/Sublime Text 2/Packages/User/JSLint.sublime-settings",
+		"/Users/brijeshshetty/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/Users/brijeshshetty/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/brijeshshetty/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/brijeshshetty/Library/Application Support/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/Users/brijeshshetty/Projects/angular/webreader/webreader.sublime-project",
+		"/Users/brijeshshetty/Projects/angular/webreader/scripts/test.sh",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/assets/javascripts/posts_controller.js",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/assets/templates/login.html.erb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/controllers/sessions_controller.rb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/helpers/sessions_helper.rb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/assets/javascripts/login_controller.js",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/assets/javascripts/sessions.js",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/controllers/posts_controller.rb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/assets/javascripts/users.js",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/views/sessions/new.html.erb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/controllers/application_controller.rb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/assets/templates/posts/new.html.erb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/config/routes.rb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/assets/javascripts/routes.js.erb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/views/layouts/application.html.erb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/assets/javascripts/posts.js",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/assets/templates/users/new.html.erb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/controllers/users_controller.rb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/assets/templates/users/index.html.erb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/assets/templates/users/edit.html.erb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/views/users/index.html.erb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/views/users/_form.html.erb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/db/migrate/20130206161944_add_indexes_to_user.rb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/models/user.rb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/config/initializers/session_store.rb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/assets/templates/posts/edit.html.erb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/Gemfile",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/assets/templates/posts/show.html.erb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/assets/templates/posts/index.html.erb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/views/posts/_form.html.erb",
+		"/Users/brijeshshetty/Projects/railsAngular/PostApp/app/views/posts/new.html.erb",
+		"/Users/brijeshshetty/Projects/angular/mystore/app/index.html",
+		"/Users/brijeshshetty/Projects/rails/brij_rails_todo.txt",
+		"/usr/local/bin/yeoman",
+		"/Users/brijeshshetty/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/brijeshshetty/Documents/PassportApplicationForm_Main_English_V1.0 3_data_final.xml",
+		"/Users/brijeshshetty/Downloads/unix/bin/hardware.sh",
+		"/Users/brijeshshetty/Downloads/aspire-distribution-1.0/bin/startup.sh",
+		"/Users/brijeshshetty/Projects/rails/physician_app/.git/COMMIT_EDITMSG",
+		"/Users/brijeshshetty/Projects/rails/store/app/views/users/_user.html.erb",
+		"/Users/brijeshshetty/Projects/rails/store/app/helpers/sessions_helper.rb",
+		"/Users/brijeshshetty/Projects/rails/store/app/views/layouts/_header.html.erb",
+		"/Users/brijeshshetty/Projects/rails/store/app/models/micropost.rb",
+		"/Users/brijeshshetty/Projects/rails/store/app/models/user.rb",
+		"/Users/brijeshshetty/Projects/rails/store/app/views/static_pages/home.html.erb",
+		"/Users/brijeshshetty/Projects/rails/store/db/migrate/20120402021151_add_remember_token_to_users.rb",
+		"/Users/brijeshshetty/Projects/rails/store/db/schema.rb",
+		"/Users/brijeshshetty/Projects/rails/store/app/controllers/sessions_controller.rb",
+		"/Users/brijeshshetty/Projects/rails/store/config/routes.rb",
+		"/Users/brijeshshetty/Projects/rails/store/app/controllers/users_controller.rb",
+		"/Users/brijeshshetty/Projects/rails/store/app/views/layouts/_flash_section.html.erb",
+		"/Users/brijeshshetty/Projects/rails/store/app/views/layouts/application.html.erb",
+		"/Users/brijeshshetty/Projects/rails/physician_app/app/helpers/sessions_helper.rb",
+		"/Users/brijeshshetty/Projects/rails/store/app/views/products/index.html.erb",
+		"/Users/brijeshshetty/Projects/rails/store/Gemfile",
+		"/Users/brijeshshetty/Projects/rails/store/app/controllers/products_controller.rb",
+		"/Users/brijeshshetty/Projects/rails/store/app/views/shared/_user_info.html.erb",
+		"/Users/brijeshshetty/Projects/rails/store/app/views/relationships",
+		"/Users/brijeshshetty/Projects/rails/store/app/views/create.js.erb",
+		"/Users/brijeshshetty/Projects/rails/store/config.ru",
+		"/Users/brijeshshetty/Projects/rails/store/lib/tasks/sample_data.rake",
+		"/Users/brijeshshetty/Projects/rails/store/app/views/layouts/_footer.html.erb",
+		"/Users/brijeshshetty/Projects/rails/store/app/views/shared/_feed_item.html.erb",
+		"/Users/brijeshshetty/Projects/rails/store/app/views/microposts/_micropost.html.erb",
+		"/Users/brijeshshetty/Projects/rails/store/app/views/shared/_stats.html.erb"
+	],
+	"find":
+	{
+		"height": 61.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>",
+			"/Users/brijeshshetty/Projects/angular/webreader/app/lib/angular/angular.js",
+			"/Users/brijeshshetty/Projects/angular/webreader/app/lib/angular",
+			"<project>",
+			"/Users/brijeshshetty/Projects/angular/webreader",
+			"",
+			"/Users/brijeshshetty/Projects/railsAngular/PostApp",
+			"<project>",
+			"/Users/brijeshshetty/Projects/rails/store",
+			"/Users/brijeshshetty/Projects/rails",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nodelinkfn",
+			"replacewith",
+			"\\.scope",
+			"compileNodes",
+			"compile",
+			"\\$compile",
+			"$compile",
+			"compile ",
+			"compile",
+			"compile(",
+			"document\\.",
+			"\\$0",
+			"hte",
+			"directive",
+			"tip",
+			"specrunn",
+			"scenario",
+			"this",
+			"script ",
+			"\\.dsl",
+			"dsl\\.",
+			"publish",
+			"\\.using",
+			"abc",
+			"elements = ",
+			"this\\.",
+			"'element'",
+			"scenario",
+			"\\.using",
+			"using\\.",
+			"RECORD",
+			"Future",
+			"dsl",
+			"addfutureaction ",
+			"className",
+			"message",
+			"_jquery",
+			"\\$element",
+			".dsl\\(",
+			".dsl",
+			".dsl =",
+			"injector",
+			"inject\\(",
+			"\\$element",
+			"element'",
+			"element",
+			"jqLite,",
+			"jqLite =",
+			"jqLite",
+			"console.log",
+			"hasclass",
+			"jqlite",
+			"element = ",
+			"bootstrap",
+			"bindjq",
+			"jqlite",
+			"pass through",
+			")\n",
+			"writeln",
+			"document",
+			".(\"<",
+			"writeln",
+			"console",
+			"debug",
+			"print",
+			"dump",
+			"hasclass",
+			"jqlite",
+			"'element'",
+			"matcher\\('",
+			"matcher('",
+			"tohaveclass",
+			"hasclass",
+			"using",
+			"repeater",
+			"hasclass",
+			"'element'",
+			"span",
+			"contain",
+			"toBe",
+			"toequ",
+			"tobe",
+			"'element'",
+			"count =",
+			"count",
+			"Items",
+			"dump",
+			"addFuture = ",
+			"addFuture\\(",
+			"addFuture",
+			"addfuture",
+			"execute",
+			"Future",
+			"angular.scenario.dsl",
+			"pause",
+			"pause =",
+			"injector",
+			"config\\.",
+			"config.",
+			"aut",
+			"autotes",
+			"autotest",
+			"config ",
+			"config",
+			"autotest",
+			"ng-a",
+			"ngauto",
+			"ng-au",
+			"autotest",
+			"href",
+			"location",
+			"url",
+			"sleep",
+			"browser",
+			"handlereq",
+			"\\.\\.",
+			"port",
+			"server",
+			"ssh",
+			"webkit",
+			"moz",
+			"webkit",
+			"directdion",
+			"box",
+			"remote",
+			"itemcount",
+			"valuefn ",
+			"valuefn"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"class=",
+			"it\\(",
+			"FeedStoreSvcInj",
+			"FeedStoreInj",
+			"FeedSvcInj",
+			"Session",
+			"user",
+			"post_form."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 173.0
+	},
+	"output.git":
+	{
+		"height": 136.0
+	},
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"com",
+				"ng/compile.js"
+			],
+			[
+				"angsc",
+				"test/lib/angular/angular-scenario.js"
+			],
+			[
+				"scenar",
+				"test/e2e/scenarios.js"
+			],
+			[
+				"angularscn",
+				"test/lib/angular/angular-scenario.js"
+			],
+			[
+				"angular.",
+				"app/lib/angular/angular.js"
+			],
+			[
+				"runn",
+				"test/e2e/runner.html"
+			],
+			[
+				"angular-sc",
+				"test/lib/angular/angular-scenario.js"
+			],
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"e2e",
+				"scripts/e2e-test.sh"
+			],
+			[
+				"test",
+				"config/testacular.conf.js"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"web",
+				"scripts/web.js"
+			],
+			[
+				"server",
+				"scripts/web-server.js"
+			],
+			[
+				"servi",
+				"test/unit/servicesSpec.js"
+			],
+			[
+				"angular",
+				"app/lib/angular/angular.js"
+			],
+			[
+				"con",
+				"app/js/controllers.js"
+			],
+			[
+				"app",
+				"app/js/app.js"
+			],
+			[
+				"ser",
+				"app/js/services.js"
+			],
+			[
+				"dire",
+				"app/js/directives.js"
+			],
+			[
+				"post",
+				"app/post-content.html"
+			],
+			[
+				"diresp",
+				"test/unit/directivesSpec.js"
+			],
+			[
+				"fil",
+				"app/js/filters.js"
+			],
+			[
+				"filsp",
+				"test/unit/filtersSpec.js"
+			],
+			[
+				"serv",
+				"app/js/services.js"
+			],
+			[
+				"services",
+				"test/unit/servicesSpec.js"
+			],
+			[
+				"c",
+				"app/js/controllers.js"
+			],
+			[
+				"mom",
+				"app/lib/moment/moment-2.0.0.min.js"
+			],
+			[
+				"mome",
+				"app/lib/moment/moment-2.0.0.min.js"
+			],
+			[
+				"filte",
+				"test/unit/filtersSpec.js"
+			],
+			[
+				"filt",
+				"app/js/filters.js"
+			],
+			[
+				"sty",
+				"app/css/style.css"
+			],
+			[
+				"consp",
+				"test/unit/controllersSpec.js"
+			],
+			[
+				"sersp",
+				"test/unit/servicesSpec.js"
+			],
+			[
+				"cons",
+				"test/unit/controllersSpec.js"
+			],
+			[
+				"conts",
+				"test/unit/controllersSpec.js"
+			],
+			[
+				"seri",
+				"test/unit/servicesSpec.js"
+			],
+			[
+				"direc",
+				"test/unit/directivesSpec.js"
+			],
+			[
+				"brij",
+				"brij_notes.txt"
+			],
+			[
+				"ire",
+				"app/js/directives.js"
+			],
+			[
+				"cont",
+				"app/js/controllers.js"
+			],
+			[
+				"servisp",
+				"test/unit/servicesSpec.js"
+			],
+			[
+				"contr",
+				"test/unit/controllersSpec.js"
+			],
+			[
+				"contro",
+				"app/js/controllers.js"
+			],
+			[
+				"servic",
+				"app/js/services.js"
+			],
+			[
+				"angmock",
+				"test/lib/angular/angular-mocks.js"
+			],
+			[
+				"angularmock",
+				"test/lib/angular/angular-mocks.js"
+			],
+			[
+				"angu",
+				"app/lib/angular/angular.js"
+			],
+			[
+				"an",
+				"app/lib/angular/angular.js"
+			],
+			[
+				"a",
+				"app/lib/angular/angular.js"
+			],
+			[
+				"angularsc",
+				"test/lib/angular/angular-scenario.js"
+			],
+			[
+				"b",
+				"/Users/brijeshshetty/Projects/railsAngular/PostApp/brij_notes.txt"
+			],
+			[
+				"angular-mo",
+				"test/lib/angular/angular-mocks.js"
+			],
+			[
+				"testa",
+				"config/testacular.conf.js"
+			],
+			[
+				"welcom",
+				"PostApp/app/assets/javascripts/welcome_controller.js"
+			],
+			[
+				"rou",
+				"PostApp/app/assets/javascripts/routes.js.erb"
+			],
+			[
+				"postjs",
+				"PostApp/app/assets/javascripts/posts_controller.js"
+			],
+			[
+				"lo",
+				"PostApp/app/assets/javascripts/login_controller.js"
+			],
+			[
+				"login",
+				"PostApp/app/assets/javascripts/login_controller.js"
+			],
+			[
+				"sessco",
+				"PostApp/app/controllers/sessions_controller.rb"
+			],
+			[
+				"sessioncon",
+				"PostApp/app/controllers/sessions_controller.rb"
+			],
+			[
+				"br",
+				"PostApp/brij_notes.txt"
+			],
+			[
+				"sessionhe",
+				"PostApp/app/helpers/sessions_helper.rb"
+			],
+			[
+				"ses",
+				"PostApp/app/assets/javascripts/sessions.js"
+			],
+			[
+				"users.j",
+				"PostApp/app/assets/javascripts/users.js"
+			],
+			[
+				"rout",
+				"PostApp/app/assets/javascripts/routes.js.erb"
+			],
+			[
+				"appcon",
+				"PostApp/app/controllers/application_controller.rb"
+			],
+			[
+				"posts/n",
+				"PostApp/app/assets/templates/posts/new.html.erb"
+			],
+			[
+				"pos",
+				"PostApp/app/assets/javascripts/posts.js"
+			],
+			[
+				"route",
+				"PostApp/app/assets/javascripts/routes.js.erb"
+			],
+			[
+				"routesjs",
+				"PostApp/app/assets/javascripts/routes.js.erb"
+			],
+			[
+				"userscon",
+				"PostApp/app/controllers/users_controller.rb"
+			],
+			[
+				"users/",
+				"PostApp/app/views/users/index.html.erb"
+			],
+			[
+				"usercon",
+				"PostApp/app/controllers/users_controller.rb"
+			],
+			[
+				"gem",
+				"PostApp/Gemfile"
+			],
+			[
+				"sess",
+				"PostApp/config/initializers/session_store.rb"
+			],
+			[
+				"todo",
+				"todo.txt"
+			],
+			[
+				"viscon",
+				"app/controllers/visits_controller.rb"
+			],
+			[
+				"production",
+				"store/config/environments/production.rb"
+			],
+			[
+				"note",
+				"brij_rails_notes.txt"
+			],
+			[
+				"head",
+				"store/app/views/layouts/_header.html.erb"
+			],
+			[
+				"prodcon",
+				"store/app/controllers/products_controller.rb"
+			],
+			[
+				"samle",
+				"store/lib/tasks/sample_data.rake"
+			],
+			[
+				"applicatin",
+				"store/config/application.rb"
+			],
+			[
+				"data",
+				"store/config/database.yml"
+			],
+			[
+				"schema",
+				"store/db/schema.rb"
+			],
+			[
+				"prod",
+				"store/app/models/product.rb"
+			],
+			[
+				"",
+				"store/app/views/products/_form.html.erb"
+			],
+			[
+				"mic",
+				"store/app/controllers/microposts_controller.rb"
+			],
+			[
+				"routes",
+				"store/config/routes.rb"
+			],
+			[
+				"bootstrap_and",
+				"store/app/assets/stylesheets/bootstrap_and_overrides.css.less"
+			],
+			[
+				"user",
+				"store/app/models/user.rb"
+			],
+			[
+				"produ",
+				"store/app/models/product.rb"
+			],
+			[
+				"products_con",
+				"store/app/controllers/products_controller.rb"
+			],
+			[
+				"product.rb",
+				"store/app/models/product.rb"
+			],
+			[
+				"store/gem",
+				"store/Gemfile"
+			],
+			[
+				"micropo",
+				"store/app/models/micropost.rb"
+			],
+			[
+				"header",
+				"store/app/views/layouts/_header.html.erb"
+			],
+			[
+				"home.html",
+				"store/app/views/static_pages/home.html.erb"
+			],
+			[
+				"sesionhelp",
+				"store/app/helpers/sessions_helper.rb"
+			],
+			[
+				"session",
+				"store/app/controllers/sessions_controller.rb"
+			],
+			[
+				"users_con",
+				"store/app/controllers/users_controller.rb"
+			],
+			[
+				"schem",
+				"store/db/schema.rb"
+			],
+			[
+				"rack",
+				"lib/action_dispatch/http/rack_cache.rb"
+			],
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"ssshe",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"seshel",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"micrc",
+				"app/controllers/microposts_controller.rb"
+			],
+			[
+				"seh",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"procon",
+				"app/controllers/products_controller.rb"
+			],
+			[
+				"prc",
+				"app/controllers/products_controller.rb"
+			],
+			[
+				"micr",
+				"app/models/micropost.rb"
+			],
+			[
+				"ov",
+				"app/assets/stylesheets/bootstrap_and_overrides.css.less"
+			],
+			[
+				"foo",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"hom",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"sata",
+				"lib/tasks/sample_data.rake"
+			],
+			[
+				"_st",
+				"app/views/shared/_stats.html.erb"
+			],
+			[
+				"_user",
+				"app/views/shared/_user_info.html.erb"
+			],
+			[
+				"sampl",
+				"lib/tasks/sample_data.rake"
+			],
+			[
+				"seshe",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"mi",
+				"app/controllers/microposts_controller.rb"
+			],
+			[
+				"micro",
+				"app/controllers/microposts_controller.rb"
+			],
+			[
+				"micon",
+				"app/controllers/microposts_controller.rb"
+			],
+			[
+				"_unf",
+				"app/views/users/_unfollow.html.erb"
+			],
+			[
+				"_foll",
+				"app/views/users/_follow.html.erb"
+			],
+			[
+				"relcon",
+				"app/controllers/relationships_controller.rb"
+			],
+			[
+				"userrb",
+				"app/models/user.rb"
+			],
+			[
+				"relation",
+				"app/models/relationship.rb"
+			],
+			[
+				"_stat",
+				"app/views/shared/_stats.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/brijeshshetty/Projects/rails/rails_root_lib.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true
+}
