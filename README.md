@@ -1,0 +1,4 @@
+phonegap-wreader
+================
+
+wreader + phonegap
